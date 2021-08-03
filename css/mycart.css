@@ -928,3 +928,22 @@ a:hover {
 body{
     background-color: #f0f0f0 !important;
 }
+
+@media screen and (min-width: 400px) and (max-width:430px){
+
+    .login_menu ul{
+        margin-left: 320px ; 
+    }
+   
+    
+    .fa-shopping-cart,.fa-user
+    {
+        font-size: 18px !important;
+    }
+
+    .input-group{
+        width: 280px !important;
+    }
+
+
+ }
