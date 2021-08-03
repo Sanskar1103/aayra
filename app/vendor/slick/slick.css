@@ -170,6 +170,13 @@
     margin-left: 25%;
   }
 }
+@media screen and (min-width: 375px) and (max-width: 450px) {
+  .slick-dots {
+    margin-top: -10% !important;
+    margin-right: 100% !important;
+    margin-left: -3% !important;
+  }
+}
 .slick-dots li {
   margin: 0 0.25rem;
 }
